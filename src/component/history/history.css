@@ -1,0 +1,34 @@
+
+
+.table-container-04 {
+    width: 1555px;
+    margin: 10px 30px;
+    line-height: 50px;
+    background-color: #fff;
+}
+
+.table-title-04 {
+    background-color: #F5F5F5;
+    height: 74px;
+}
+
+.history-04 {
+    border-bottom: 5px solid;
+    color: #F1B13B;
+}
+
+.padding-button {
+    width: 130px;
+    height: 39px;
+    border-radius: 30px;
+    color: #7D7D7D;
+    background-color: #F3F3F3;
+}
+
+.button-item-01 {
+    width: 130px;
+    height: 39px;
+    border-radius: 30px;
+    color: #FF0000;
+    background-color: #FFD6D6;
+}

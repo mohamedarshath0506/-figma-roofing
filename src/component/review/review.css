@@ -1,0 +1,45 @@
+.reviews {
+    width: 790px;
+    height: 575px;
+    padding: 10px 40px;
+    background-color: #fff;
+}
+
+.reviews-textarea {
+    width: 687px;
+    height: 275px;
+    border-radius: 15px;
+    background: #FFFFFF;
+    box-shadow: 0px 0px 10px rgb(160 160 160 / 20%);
+}
+
+.reviews-textarea textarea {
+    width: 588px; 
+    height: 163px;
+    margin: 40px;
+    padding: 10px;
+}
+
+.reject-to-send-btn {
+    display: flex;
+    gap: 10px;
+    margin: 40px 0 0 0;
+}
+
+.reject {
+    width: 109px;
+    height: 44px;
+    border: 1px solid #D9D9D9;
+    border-radius: 7px;
+    padding: 13px 30px 13px 30px;
+    background: #CFCFCF;
+}
+
+.ready-to-send {
+    width: 163px;
+    height: 43px;
+    border: 1px solid #D9D9D9;
+    border-radius: 7px;
+    padding: 13px 30px 13px 30px;
+    background: #F1B13B;
+}

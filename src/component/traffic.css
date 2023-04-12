@@ -1,0 +1,27 @@
+@media (max-width:1024px) {
+    .progress {
+        color: #fff;
+        background-color: tomato;
+    }   
+}
+
+@media (max-width:768px) {
+    .progress {
+        color: green;
+        background-color: brown;
+    }
+}
+
+@media (max-width:595px) {
+    .progress {
+        color: gray;
+        background-color: yellow;
+    }
+}
+
+@media (max-width:375px) {
+    .progress {
+        color: black;
+        background-color: violet;
+    }
+}   

@@ -1,0 +1,84 @@
+.inprogress-container-1 {
+    width: 100%;
+    margin: 40px 20px 0 25px;
+}
+
+.inprogress-header-container-1 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 30px;
+    background-color: #fff;
+}
+
+.latest-1 h2 {
+    color: #000;
+}
+
+.calendar-1 {
+    height: 40px;
+    display: flex;
+    align-items: center;
+    gap: 30px;
+    margin: 12px;
+}
+
+.calendar-1 p {
+    margin: 0;
+}
+
+.day-1 {
+    border: 1px solid #D9D9D9;
+    padding: 8px 15px;
+}
+
+.calender-image-1 {
+    border: none;
+    border-radius: 10px;
+    padding: 12px;
+    background-color: #F5F5F5;
+}
+
+.title-content-1 {
+    height: 74px;
+}
+
+.customer-details-1 {
+    width: 200px;
+}
+
+.text-item-1 {
+    text-align: left;
+    background-color: #fff;
+}
+
+.item-2 {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    padding: 10px;
+}
+
+.inspection-1 td {
+    font-size: 13px;
+    padding: 10px 15px;
+    border-radius: 14px;
+    color: #005483;
+    background-color: #AEE2FF;
+}
+
+.in-review-1 td {
+    font-size: 13px;
+    border-radius: 14px;
+    padding: 10px 15px;
+    color: #5E4F00;
+    background-color: #FFF2AE;
+}
+
+.cancelled-1 td {
+    font-size: 13px;
+    border-radius: 14px;
+    padding: 10px 15px;
+    color: #FF0000;
+    background-color: #FFDADA;
+}

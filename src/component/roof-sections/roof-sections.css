@@ -1,0 +1,251 @@
+.nested-list {
+    display: flex;
+    gap: 35px;
+    margin: 0;
+}
+
+.idNumber {
+    color: #828282;
+}
+.create-01 {
+    margin: 17px 0 0 38px;
+    display: flex;
+    align-items: center;
+    /* gap: 10px; */
+}
+
+.round-01 {
+    width: 8px;
+    height: 8px;
+    border: none;
+    border-radius: 8px;
+    background-color: #F2C94C;
+}
+
+.round-2 {
+    width: 8px;
+    height: 8px;
+    border: none;
+    border-radius: 8px;
+    background-color: #BDBDBD;
+}
+
+.line-01 {
+    width: 232px;
+    height: 2px;
+    border: none;
+    border-radius: 8px;
+    background-color: #BDBDBD;
+}
+
+.line-02 {
+    width: 232px;
+    height: 2px;
+    border: none;
+    border-radius: 8px;
+    background-color: #F2C94C;
+}
+
+
+.roof-sections-content {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 50px;
+    padding: 13px 35px;
+    margin: 40px 30px 0 30px;
+    background-color: #fff;
+}
+
+.id h1 {
+    margin: 0;
+}
+
+.id p {
+    margin: 0;
+}
+
+.in-review-01 {
+    font-size: 13px;
+    border-radius: 14px;
+    padding: 10px 15px;
+    color: #5E4F00;
+    background-color: #FFF2AE;
+}
+
+.job-detail-status {
+    font-size: 16px;
+    border-bottom: 2px solid;
+    color: #F2C94C;
+}
+
+.title-information-01 {
+    display: flex;
+}
+
+.customer-title-01 {
+    font-size: 14px;
+    margin: 25px 0 0 15px;
+    color: #F2C94C;
+}
+
+.property-title-01 {
+    font-size: 14px;
+    margin: 25px 0 0 160px;
+    color: #F2C94C;
+}
+
+.inspection-team-01 {
+    font-size: 14px;
+    margin: 25px 0 0 182px;
+    color: #F2C94C;
+}
+
+.note-01 {
+    font-size: 14px;
+    margin: 25px 0 0 170px;
+    color: #F2C94C;
+}
+
+.title-information-02 {
+    display: flex;
+    gap: 112px;
+}
+
+.title-information-02 h4 {
+    font-size: 14px     ;
+    margin: 5px 0;
+    color: #878787;
+}
+
+.site-address-container {
+    font-size: 14px;
+    display: flex;
+    /* justify-content: space-between; */
+    padding: 10px 10px;
+    margin: 4px 30px 0 30px;
+    background-color: #fff;
+}
+
+.site-address-content {
+    width: 500px;
+    border-right: 3px solid #F0F0F0;
+}
+
+.number-email-content{
+    display: flex;
+    gap: 25px;
+}
+
+.phone-number h4 {
+    margin: 0;
+}
+
+.phone-number p {
+    margin: 5px 0;
+}
+
+.email h4 {
+    margin: 0;
+}
+
+.email p {
+    margin: 5px 0;
+}
+
+.team-title-item {
+    font-size: 14px;
+    width: 390px;
+    border-right: 3px solid #F0F0F0;
+    padding: 0 0 0 25px;
+}
+
+.review-now {
+    display: flex;
+    align-items: center;
+    gap: 315px;
+    padding: 0 30px;
+    background-color: #f5f5f5;
+}
+
+.review-now P {
+    font-size: 12px;
+    border: 1px solid #E0E0E0;
+    border-radius: 14px;
+    padding: 10px 15px;
+    color: #F2B22A;
+    background-color: #fff;
+    
+}
+
+.more {
+    padding: 0 30px;
+}
+
+.download-content {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    padding: 0 30px;
+}
+
+.download-content p {
+    margin: 0;
+}
+
+.download-pdf-content {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    padding: 0 30px;
+}
+
+.download-pdf-content p {
+    margin: 0;
+}
+
+.table-container {
+    width: 1555px;
+    margin: 10px 30px;
+    line-height: 50px;
+    background-color: #fff;
+}
+
+.table-title {
+    background-color: #F5F5F5;
+    height: 74px;
+}
+
+.roof-section {
+    border-bottom: 5px solid;
+    color: #F1B13B;
+}
+
+.roofs-content {
+    display: flex;
+    gap: 840%;
+    margin: 10px;
+}
+
+.heading-item {
+    text-align: center;
+    background-color: #F5F5F5;
+}
+
+
+.text-title {
+    color: #7D7D7D;
+}
+
+/* .general-maintenance{
+    width: 268px;
+}
+
+.addiotional-repairs {
+    width: 305px;
+}
+
+.replacements{
+    width: 195px;
+} */
+

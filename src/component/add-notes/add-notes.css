@@ -1,0 +1,111 @@
+.create-inspection-add {
+    width: 100%;
+    height: 754px;
+    margin: 25px;
+    background-color: #fff;
+}
+
+.heading-add {
+    margin: 50px 0 0 40px;
+}
+
+.heading-add h1 {
+    font-size: 24px;
+}
+
+.create-add {
+    margin: 25px 0 0 95px;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.round-add {
+    width: 8px;
+    height: 8px;
+    border: none;
+    border-radius: 8px;
+    background-color: #F2C94C;
+}
+
+.line-add {
+    width: 232px;
+    height: 2px;
+    border: none;
+    border-radius: 8px;
+    background-color: #F2C94C;
+}
+
+.title-information-add {
+    display: flex;
+}
+
+.customer-title-add {
+    font-size: 14px;
+    margin: 25px 0 0 40px;
+}
+
+.property-title-add {
+    font-size: 14px;
+    margin: 25px 0 0 70px;
+}
+
+.inspection-team-add {
+    font-size: 14px;
+    margin: 25px 0 0 90px;
+}
+
+.note-add {
+    font-size: 14px;
+    margin: 25px 0 0 190px;
+}
+
+
+.new-customer-add {
+    margin: 30px 0 0 40px;
+    gap: 15px;
+}
+
+.create-content-add {
+    width: 730px;
+    height: 340px;
+    margin: 20px 0 0 35px;
+    padding: 20px 0 0 30px;
+    border-radius: 15px;
+    background-color: #fff;
+    box-shadow: 0px 0px 10px rgb(160 160 160 / 20%);
+}
+
+.create-content-add textarea {
+    width: 680px;
+    height: 300px;
+}
+
+.customer-page-add h4 {
+    margin: 0;
+}
+
+.save-next-btn-add {
+    margin: 45px 0 0 40px;
+    display: flex;
+    gap: 35px;
+}
+.next-btn-add {
+    width: 153px;
+    height: 44px;
+    font-size: 15px;
+    font-weight: 700;
+    border: none;
+    border-radius: 7px;
+    background-color: #F1B13B;
+}
+
+.back-btn-add {
+    width: 115px;
+    height: 44px;
+    font-size: 15px;
+    font-weight: 700;
+    border: none;
+    border-radius: 7px;
+    background-color: #CFCFCF;
+}

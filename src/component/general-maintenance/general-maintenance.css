@@ -1,0 +1,25 @@
+.table-container-01 {
+    width: 1555px;
+    margin: 10px 30px;
+    line-height: 50px;
+    background-color: #fff;
+}
+
+.table-title-01 {
+    background-color: #F5F5F5;
+    height: 74px;
+}
+
+.general-maintenance-01 {
+    border-bottom: 5px solid;
+    color: #F1B13B;
+}
+
+.heading-item-01 {
+    text-align: center;
+    background-color: #F5F5F5;
+}
+
+.text-title-01 {
+    color: #7D7D7D;
+}
